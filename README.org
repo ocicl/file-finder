@@ -4,7 +4,7 @@ Rapid file search and inspection
 
 |---------+---------------------------------------------------------|
 | source  | git:https://github.com/lisp-maintainers/file-finder.git |
-| commit  | 46513b0                                                 |
+| commit  | 0b55594                                                 |
 | systems | file-finder                                             |
 |---------+---------------------------------------------------------|
 -----|
